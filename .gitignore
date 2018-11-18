@@ -112,3 +112,4 @@ venv.bak/
 *.gz
 *.pyc
 __pycache__/
+dataset/mnist.pkl
