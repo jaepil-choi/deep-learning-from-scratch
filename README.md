@@ -1,12 +1,3 @@
-# 『밑바닥부터 시작하는 딥러닝』 (원서 : ゼロから作る Deep Learning)
-
-<img src="https://github.com/WegraLee/deep-learning-from-scratch/blob/master/cover_image.jpg" width="360">
-
-## 책 미리보기
-[issuu](https://issuu.com/hanbit.co.kr/docs/____________________________________38d0e6451f0ddf) | [SlideShare](http://www.slideshare.net/wegra/ss-70456623) | [Yumpu](https://www.yumpu.com/xx/document/view/56594155/-)
-
----
-
 이 교재의 원 저장소는 https://github.com/WegraLee/deep-learning-from-scratch 입니다. 
 
 여기선 제가 개인적으로 공부하며 각 챕터의 내용을 요약한 내용을 주피터 노트북으로 만들어봤습니다. 
@@ -23,5 +14,15 @@ Python 기본을 다루는 Ch.01와 Softmax-with-Loss 계산 그래프를 설명
 그런 경우 deep_learning_images/ 디렉토리 내의 figure/equation 이미지를 참고하시길 바랍니다. 
 
 ---
+
+# 『밑바닥부터 시작하는 딥러닝』 (원서 : ゼロから作る Deep Learning)
+
+<img src="https://github.com/WegraLee/deep-learning-from-scratch/blob/master/cover_image.jpg" width="360">
+
+## 책 미리보기
+[issuu](https://issuu.com/hanbit.co.kr/docs/____________________________________38d0e6451f0ddf) | [SlideShare](http://www.slideshare.net/wegra/ss-70456623) | [Yumpu](https://www.yumpu.com/xx/document/view/56594155/-)
+
+---
+
 
 
