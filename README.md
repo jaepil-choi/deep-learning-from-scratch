@@ -1,3 +1,19 @@
+--- 2019.01
+
+본 저장소의 노트를 브라우저에서 직접 돌려볼 수 있게 Google Colaboratory 노트북으로 변환했습니다. 
+
+깃허브의 소스코드를 자신의 로컬에 클론하는 것이 익숙치 않으신 분들이나 귀찮은 분들은 직접 브라우저에서 실행해보실 수 있습니다. 
+
+다음 폴더에 Chp.02 ~ Chp.08 까지의 노트북이 있습니다. 
+https://drive.google.com/open?id=1cmaRFPulNiJ9ZqYfgSvaM6BQM4CzrnAW
+
+Google Colab 노트북을 실행하시려면 자신의 구글 드라이브에 Google Colaboratory 확장프로그램을 추가해야 합니다. 
+
+그 방법은 유튜브 오늘코드 님의 간단한 동영상을 보시거나 그냥 구글에 '구글 colab 사용법' 등으로 검색을 해보시면 됩니다. 
+https://www.youtube.com/playlist?list=PLaTc2c6yEwmo9MZi-0OLi8F6bM6AA0wjE
+
+--- 2018.12
+
 이 교재의 원 저장소는 https://github.com/WegraLee/deep-learning-from-scratch 입니다. 
 
 여기선 제가 개인적으로 공부하며 각 챕터의 내용을 요약한 내용을 주피터 노트북으로 만들어봤습니다. 
