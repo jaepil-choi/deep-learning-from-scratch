@@ -5,7 +5,7 @@
 깃허브의 소스코드를 자신의 로컬에 클론하는 것이 익숙치 않으신 분들이나 귀찮은 분들은 직접 브라우저에서 실행해보실 수 있습니다. 
 
 다음 폴더에 Chp.02 ~ Chp.08 까지의 노트북이 있습니다. 
-https://drive.google.com/open?id=1cmaRFPulNiJ9ZqYfgSvaM6BQM4CzrnAW
+https://drive.google.com/open?id=1uQpE_egJNGdzDIUGeFK3nvELioX0i4_e
 
 Google Colab 노트북을 실행하시려면 자신의 구글 드라이브에 Google Colaboratory 확장프로그램을 추가해야 합니다. 
 
